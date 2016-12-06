@@ -25,8 +25,8 @@ public class AppTest {
 
   @AfterTest
   public void afterTest() {
-        driver.quit();
-    }
+    driver.quit();
+  }
 
   @Test
   public void helloTest() {
